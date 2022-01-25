@@ -1,8 +1,8 @@
-# Yubikey-OpenPGP
+# Yubikey-GPG
 Yubikey+OpenPGP configuration notes
 Great repo with a lot of info: https://github.com/drduh/YubiKey-Guide
 
-## OpenPGP
+## GPG
 
 Validate information:
 ```
